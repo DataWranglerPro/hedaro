@@ -5,7 +5,7 @@ hedaro
     :target: https://pypi.python.org/pypi/hedaro
     :alt: Latest PyPI version
 
-.. image:: https://travis-ci.org/github/hedaro-project/hedaro.png
+.. image:: https://api.travis-ci.org/hedaro-project/hedaro.png
    :target: https://travis-ci.org/github/hedaro-project/hedaro
    :alt: Latest Travis CI build status
 
