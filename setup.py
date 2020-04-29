@@ -1,4 +1,4 @@
-import io
+﻿import io
 import os
 import re
 
@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="hedaro",
-    version="0.0.5",
+    version="0.0.6",
     url="https://github.com/hedaro-project/hedaro",
     license='MIT',
 
