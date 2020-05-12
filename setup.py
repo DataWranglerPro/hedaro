@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="hedaro",
-    version="0.0.7",
+    version="0.0.8",
     url="https://github.com/hedaro-project/hedaro",
     license='MIT',
 
